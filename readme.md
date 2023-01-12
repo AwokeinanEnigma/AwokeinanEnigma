@@ -3,16 +3,7 @@
 
 <h1 align="left">Hi, I'm Enigma and I develop games with Unity and Monogame in C#</h1>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-    <a href="Enigma#6973" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-    <a href="https://www.youtube.com/channel/UCpYA4HKVaCtiet0Hyy36vzQ" target="_blank">
-</div>
-
-###
+##
 
 <h2 align="left">About me</h2>
 
