@@ -47,7 +47,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/AwokeinanEnigma/AwokeinanEnigma/blob/output/snake.svg](https://github.com/AwokeinanEnigma/AwokeinanEnigma/blob/output/snake.svg)" alt="Snake animation" />
+<img src="https://github.com/AwokeinanEnigma/AwokeinanEnigma/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
