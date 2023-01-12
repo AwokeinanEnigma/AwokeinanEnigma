@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="left">Hi, I'm Enigma and I like developing games with Unity and Monogame in C#</h1>
+<h1 align="left">Hi, I'm Enigma and I develop games with Unity and Monogame in C#</h1>
 
 ###
 
