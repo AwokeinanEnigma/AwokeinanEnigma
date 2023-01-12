@@ -18,8 +18,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://i.imgur.com/zqrV1fP.png"  />
 
 ###
