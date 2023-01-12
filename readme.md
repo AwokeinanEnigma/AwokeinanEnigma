@@ -1,3 +1,4 @@
+
 ###
 
 <h1 align="left">Hi, I'm Enigma and I like developing games with Unity and Monogame in C#</h1>
@@ -13,17 +14,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/AwokeinanEnigma/count.svg?"  />
 
 ###
 
@@ -59,5 +50,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/AwokeinanEnigma/AwokeinanEnigma/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AwokeinanEnigma/count.svg?"  />
+</div>
 
 ###
