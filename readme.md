@@ -27,13 +27,7 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="aftereffects logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" width="52" alt="premierepro logo"  />
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwokeinanEnigma)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <img src="https://github.com/AwokeinanEnigma/AwokeinanEnigma/blob/output/snake.svg" alt="Snake animation" />
