@@ -11,10 +11,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I've had access to a functioning computer<br>📚 Currently learning C++<br>The best way to contact me is through my discord, Enigma#6973.<br>You can also email me at "thomas.fenton@protonmail.com"</p>
-
-###
-
 <h2 align="left">Languages and Tools</h2>
 
 ###
