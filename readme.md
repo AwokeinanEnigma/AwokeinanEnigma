@@ -1,7 +1,4 @@
 ###
-
-<img align="right" height="200" src="https://i.imgur.com/zqrV1fP.png"  />
-
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwokeinanEnigma)](https://github.com/anuraghazra/github-readme-stats)
 ###
